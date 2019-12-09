@@ -1,2 +1,0 @@
-# jahitinfe
-fe-nya jahitin
